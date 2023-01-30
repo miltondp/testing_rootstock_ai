@@ -27,7 +27,7 @@ coronaviruses
 CoV
 COVID
 D'Agostino
-das
+Das
 Dattoli
 davemai
 davidmanheim
@@ -87,7 +87,7 @@ LucyStats
 Lukan
 Lund
 MacLean
-mangul
+Mangul
 Manheim
 Marouen
 marouenbg
@@ -126,8 +126,8 @@ São
 scapone
 SeKnyaz
 Sergey
-serghei
-shikta
+Serghei
+Shikta
 shiktadas
 Shinholster
 Simina
@@ -138,7 +138,7 @@ Soumita
 soumitagh
 symptomatology
 SystemsResearch
-Szeto
+szeto
 tamefoxtime
 Technion
 Telangana
@@ -154,7 +154,7 @@ Villanova
 vincerubinetti
 Wellhausen
 Yanjun
-yoson
+YoSon
 ypar
 Yuchen
 Yusha
