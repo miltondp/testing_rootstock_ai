@@ -32,15 +32,7 @@ jobs:
         uses: actions/checkout@v3
         with: 
           ref: ${{ inputs.branch }} 
-      - name: Cache
-        uses: actions/cache@v3
-        with:
-          path: ci/cache
-          key: ci-cache-${{ github.ref }}
-          restore-keys: |
-            ci-cache-${{ env.DEFAULT_BRANCH_REF }}-${{ hashFiles('build/environment.yml') }}
       - name: Install Environment
-        if: steps.cache.outputs.cache-hit != 'true'
         uses: conda-incubator/setup-miniconda@v2
         with:
           activate-environment: manubot
@@ -48,7 +40,6 @@ jobs:
           auto-activate-base: false
           miniforge-version: 'latest'
       - name: Install Manubot AI revision dependencies
-        if: steps.cache.outputs.cache-hit != 'true'
         run: pip install git+https://github.com/manubot/manubot@d4242ffa4194e4a13a68c5f6466feff559d3f9d5#egg=manubot[ai-rev]
       - name: Revise manuscript
         env:
