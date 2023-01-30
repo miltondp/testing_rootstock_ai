@@ -27,7 +27,7 @@ coronaviruses
 CoV
 COVID
 D'Agostino
-Das
+das
 Dattoli
 davemai
 davidmanheim
@@ -87,7 +87,7 @@ LucyStats
 Lukan
 Lund
 MacLean
-Mangul
+mangul
 Manheim
 Marouen
 marouenbg
@@ -111,14 +111,14 @@ qiyanjun
 Rafizadeh
 Raj
 Ramsundar
-rando
+Rando
 rbhar
 rbharath
 rdvelazquez
 Rishi
 rishirajgoel
 RLordan
-Ronan
+ronan
 Rubinetti
 Sandipan
 Sangareddy
@@ -127,7 +127,7 @@ scapone
 SeKnyaz
 Sergey
 serghei
-Shikta
+shikta
 shiktadas
 Shinholster
 Simina
