@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-30" />
   <meta name="citation_publication_date" content="2023-01-30" />
   <meta property="article:published_time" content="2023-01-30" />
-  <meta name="dc.modified" content="2023-01-30T04:56:27+00:00" />
-  <meta property="article:modified_time" content="2023-01-30T04:56:27+00:00" />
+  <meta name="dc.modified" content="2023-01-30T05:10:30+00:00" />
+  <meta property="article:modified_time" content="2023-01-30T05:10:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://miltondp.github.io/testing_rootstock_ai/" />
   <meta name="citation_pdf_url" content="https://miltondp.github.io/testing_rootstock_ai/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://miltondp.github.io/testing_rootstock_ai/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://miltondp.github.io/testing_rootstock_ai/v/b34e14538b38c6fac7f3ddf748b4b01afb6a65c9/" />
-  <meta name="manubot_html_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/b34e14538b38c6fac7f3ddf748b4b01afb6a65c9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/b34e14538b38c6fac7f3ddf748b4b01afb6a65c9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://miltondp.github.io/testing_rootstock_ai/v/4626b25952fa4c2abd8d4081259c35767067051d/" />
+  <meta name="manubot_html_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/4626b25952fa4c2abd8d4081259c35767067051d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/4626b25952fa4c2abd8d4081259c35767067051d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://miltondp.github.io/testing_rootstock_ai/v/b34e14538b38c6fac7f3ddf748b4b01afb6a65c9/))
+([permalink](https://miltondp.github.io/testing_rootstock_ai/v/4626b25952fa4c2abd8d4081259c35767067051d/))
 was automatically generated
-from [miltondp/testing_rootstock_ai@b34e145](https://github.com/miltondp/testing_rootstock_ai/tree/b34e14538b38c6fac7f3ddf748b4b01afb6a65c9)
+from [miltondp/testing_rootstock_ai@4626b25](https://github.com/miltondp/testing_rootstock_ai/tree/4626b25952fa4c2abd8d4081259c35767067051d)
 on January 30, 2023.
 </em></small>
 
@@ -118,6 +118,14 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 ## Abstract {.page_break_before}
 
+The novel coronavirus SARS-CoV-2, which emerged in late 2019, has since spread around the world and infected hundreds of millions of people with coronavirus disease 2019 (COVID-19).
+While this viral species was unknown prior to January 2020, its similarity to other coronaviruses that infect humans has allowed for rapid insight into the mechanisms that it uses to infect human hosts, as well as the ways in which the human immune system can respond.
+Here, we contextualize SARS-CoV-2 among other coronaviruses and identify what is known and what can be inferred about its behavior once inside a human host.
+Because the genomic content of coronaviruses, which specifies the virus's structure, is highly conserved, early genomic analysis provided a significant head start in predicting viral pathogenesis and in understanding potential differences among variants.
+The pathogenesis of the virus offers insights into symptomatology, transmission, and individual susceptibility.
+Additionally, prior research into interactions between the human immune system and coronaviruses has identified how these viruses can evade the immune system's protective mechanisms.
+We also explore systems-level research into the regulatory and proteomic effects of SARS-CoV-2 infection and the immune response.
+Understanding the structure and behavior of the virus serves to contextualize the many facets of the COVID-19 pandemic and can influence efforts to control the virus and treat the disease.
 
 
 
