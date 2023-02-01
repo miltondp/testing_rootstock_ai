@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/miltondp/testing_rootstock_ai/tree/gh-pages) branch hosts the contents of this directory at <https://miltondp.github.io/testing_rootstock_ai/>.
-The permalink for this webpage version is <https://miltondp.github.io/testing_rootstock_ai/v/1721afbe7f731de69c2f3b84704a31a8cbfff2d4/>.
+The permalink for this webpage version is <https://miltondp.github.io/testing_rootstock_ai/v/f0648c8dce54801eab80b481a826a40938611e81/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://miltondp.github.io/testing_rootstock_ai/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`1721afbe7f731de69c2f3b84704a31a8cbfff2d4`](https://github.com/miltondp/testing_rootstock_ai/commit/1721afbe7f731de69c2f3b84704a31a8cbfff2d4).
+[`f0648c8dce54801eab80b481a826a40938611e81`](https://github.com/miltondp/testing_rootstock_ai/commit/f0648c8dce54801eab80b481a826a40938611e81).
