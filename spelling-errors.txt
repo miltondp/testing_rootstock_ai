@@ -64,7 +64,7 @@ ismms
 Jadavji
 jboerckel
 jessegmeyerlab
-Jinhui
+jinhui
 johnbarton
 jpbarton
 Kamil
@@ -111,7 +111,7 @@ qiyanjun
 Rafizadeh
 Raj
 Ramsundar
-rando
+Rando
 rbhar
 rbharath
 rdvelazquez
@@ -157,4 +157,4 @@ Yanjun
 YoSon
 ypar
 Yuchen
-yusha
+Yusha
