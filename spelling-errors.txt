@@ -64,7 +64,7 @@ ismms
 Jadavji
 jboerckel
 jessegmeyerlab
-jinhui
+Jinhui
 johnbarton
 jpbarton
 Kamil
@@ -87,7 +87,7 @@ LucyStats
 Lukan
 Lund
 MacLean
-mangul
+Mangul
 Manheim
 Marouen
 marouenbg
@@ -118,7 +118,7 @@ rdvelazquez
 Rishi
 rishirajgoel
 RLordan
-ronan
+Ronan
 Rubinetti
 Sandipan
 Sangareddy
@@ -154,7 +154,7 @@ Villanova
 vincerubinetti
 Wellhausen
 Yanjun
-yoson
+YoSon
 ypar
 Yuchen
-Yusha
+yusha
