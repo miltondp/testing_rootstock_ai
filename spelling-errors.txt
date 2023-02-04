@@ -64,7 +64,7 @@ ismms
 Jadavji
 jboerckel
 jessegmeyerlab
-jinhui
+Jinhui
 johnbarton
 jpbarton
 Kamil
@@ -87,7 +87,7 @@ LucyStats
 Lukan
 Lund
 MacLean
-mangul
+Mangul
 Manheim
 Marouen
 marouenbg
@@ -126,7 +126,7 @@ São
 scapone
 SeKnyaz
 Sergey
-serghei
+Serghei
 Shikta
 shiktadas
 Shinholster
@@ -138,7 +138,7 @@ Soumita
 soumitagh
 symptomatology
 SystemsResearch
-Szeto
+szeto
 tamefoxtime
 Technion
 Telangana
@@ -154,7 +154,7 @@ Villanova
 vincerubinetti
 Wellhausen
 Yanjun
-YoSon
+yoson
 ypar
 Yuchen
-yusha
+Yusha

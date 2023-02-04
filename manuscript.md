@@ -6,7 +6,7 @@ keywords:
 - pandemic
 - viral infection
 lang: en-US
-date-meta: '2023-02-01'
+date-meta: '2023-02-04'
 author-meta:
 - Halie M. Rando
 - Casey S. Greene
@@ -73,11 +73,11 @@ header-includes: |
   <meta name="citation_title" content="SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics" />
   <meta property="og:title" content="SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics" />
   <meta property="twitter:title" content="SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics" />
-  <meta name="dc.date" content="2023-02-01" />
-  <meta name="citation_publication_date" content="2023-02-01" />
-  <meta property="article:published_time" content="2023-02-01" />
-  <meta name="dc.modified" content="2023-02-01T14:15:05+00:00" />
-  <meta property="article:modified_time" content="2023-02-01T14:15:05+00:00" />
+  <meta name="dc.date" content="2023-02-04" />
+  <meta name="citation_publication_date" content="2023-02-04" />
+  <meta property="article:published_time" content="2023-02-04" />
+  <meta name="dc.modified" content="2023-02-04T20:39:11+00:00" />
+  <meta property="article:modified_time" content="2023-02-04T20:39:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -297,9 +297,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://miltondp.github.io/testing_rootstock_ai/" />
   <meta name="citation_pdf_url" content="https://miltondp.github.io/testing_rootstock_ai/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://miltondp.github.io/testing_rootstock_ai/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://miltondp.github.io/testing_rootstock_ai/v/f0648c8dce54801eab80b481a826a40938611e81/" />
-  <meta name="manubot_html_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/f0648c8dce54801eab80b481a826a40938611e81/" />
-  <meta name="manubot_pdf_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/f0648c8dce54801eab80b481a826a40938611e81/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://miltondp.github.io/testing_rootstock_ai/v/a4a08f1f501fde0bd5e3560826e998a500644c13/" />
+  <meta name="manubot_html_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/a4a08f1f501fde0bd5e3560826e998a500644c13/" />
+  <meta name="manubot_pdf_url_versioned" content="https://miltondp.github.io/testing_rootstock_ai/v/a4a08f1f501fde0bd5e3560826e998a500644c13/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -321,10 +321,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://miltondp.github.io/testing_rootstock_ai/v/f0648c8dce54801eab80b481a826a40938611e81/))
+([permalink](https://miltondp.github.io/testing_rootstock_ai/v/a4a08f1f501fde0bd5e3560826e998a500644c13/))
 was automatically generated
-from [miltondp/testing_rootstock_ai@f0648c8](https://github.com/miltondp/testing_rootstock_ai/tree/f0648c8dce54801eab80b481a826a40938611e81)
-on February 1, 2023.
+from [miltondp/testing_rootstock_ai@a4a08f1](https://github.com/miltondp/testing_rootstock_ai/tree/a4a08f1f501fde0bd5e3560826e998a500644c13)
+on February 4, 2023.
 </em></small>
 
 
